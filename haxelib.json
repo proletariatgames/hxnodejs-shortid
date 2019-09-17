@@ -6,8 +6,8 @@
   "tags": ["nodejs", "shortid", "tinyid"],
   "description": "Externs for the shortid NPM module",
   "releasenote": "Initial release",
-  "version": "2.2.8-alpha",
-  "contributors": ["Proletariat", "danogles", "waneck"],
+  "version": "2.2.9",
+  "contributors": ["Proletariat", "ProletariatDev1"],
   "dependencies": {
     "hxnodejs": ""
   }
